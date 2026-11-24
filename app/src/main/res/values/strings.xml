@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orbit Dash</string>
+    <string name="score_label">Score</string>
+    <string name="best_label">Best</string>
+    <string name="streak_line">Streak %1$d · %2$.2f×</string>
+    <string name="tap_hint">Tap to reverse</string>
+    <string name="direction_ccw">CCW</string>
+    <string name="direction_cw">CW</string>
+    <string name="title">Orbit Dash</string>
+    <string name="tagline">Slip the arcs.</string>
+    <string name="subtitle">One tap reverses the orbit.</string>
+    <string name="credit">Geetha M</string>
+    <string name="launch">Launch</string>
+    <string name="board">Board</string>
+    <string name="lost_title">Orbit lost</string>
+    <string name="personal_best">Personal best</string>
+    <string name="best_value">Best %1$d</string>
+    <string name="pilot_label">Pilot</string>
+    <string name="post">Post run</string>
+    <string name="posting">Posting</string>
+    <string name="again">Fly again</string>
+    <string name="back">Back</string>
+    <string name="refresh">Refresh</string>
+    <string name="board_title">Board</string>
+    <string name="empty_board">No runs posted yet.</string>
+    <string name="offline_board">The board did not answer. Start the server, then refresh.</string>
+    <string name="phone_best">On this phone %1$d</string>
+    <string name="posted">Posted. You are #%1$d.</string>
+    <string name="invalid_name">Use 1–16 letters, numbers, spaces, hyphens, dots, or apostrophes.</string>
+    <string name="rejected">The server refused that run.</string>
+    <string name="offline_post">Saved on this phone. The board is offline.</string>
+    <string name="save_failed">The best did not save on this phone.</string>
+    <string name="dodges">%1$d dodges</string>
+    <string name="playfield">Playfield. Tap to reverse the orbit.</string>
+    <string name="loading">Loading the board</string>
+</resources>

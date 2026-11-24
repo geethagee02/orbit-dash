@@ -1,0 +1,17 @@
+{
+  "name": "orbit-dash-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Leaderboard for Orbit Dash.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
